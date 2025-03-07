@@ -1,4 +1,6 @@
-<h1 align="center">Hello friend!!!</h1>
+<br clear="both">
+
+<h1 align="center">Hello my friend!!!</h1>
 
 ###
 
@@ -35,9 +37,21 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif"  />
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/36/4e/a6/364ea6cd7bfd00a0260aaf6e2602cd4d.gif"  />
+
+###
+
+<br clear="both">
+
 <h3 align="left">My tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -51,22 +65,21 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif"  />
+<br clear="both">
+
+<h3 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h3>
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/36/4e/a6/364ea6cd7bfd00a0260aaf6e2602cd4d.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"  />
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/93/5c/20/935c20419ae5f3e92c11c864b507f48a.gif"  />
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oniqq1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oniqq1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf">
@@ -76,15 +89,7 @@
 
 ###
 
-<h3 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h3>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"  />
-</div>
-
-###
+<br clear="both">
 
 <h3 align="center">I proud , read this profile was intresting and funny , good buy my friend =)</h3>
 
