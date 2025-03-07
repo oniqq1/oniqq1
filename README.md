@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="center">Hmm<br>My name is oinqq so..  What is yours?<br>I think it beautiful<br>I love music and anime<br>Do you like too?</h3>
+<h3 align="center">Hmm<br>My name is oinqq so..  What is yours?<br>I think it wonderful<br>I love music and anime<br>Do you like too?</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 ###
 
 <br clear="both">
-<br clear="both">
+
 <div align="center">
   <a href="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xbumaa65uudltqwj0fvl6zxvf&count=3" alt="Spotify recently played"  />
