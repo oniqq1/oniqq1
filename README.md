@@ -25,9 +25,15 @@
 
 ###
 
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
-<p align="left">My tools</p>
+<h4 align="left">My tools</h4>
 
 ###
 
@@ -48,18 +54,10 @@
 ###
 
 <div align="center">
-  <img src="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf?si=c873568f96104681?theme=dark&spin=true&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <a href="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xbumaa65uudltqwj0fvl6zxvf&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oniqq1.oniqq1&left_color=darkgrey&right_color=darkgrey&left_text=Hehe"  />
-</div>
-
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xbumaa65uudltqwj0fvl6zxvf)
-
 
 ###
 
