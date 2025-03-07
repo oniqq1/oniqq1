@@ -2,11 +2,21 @@
 
 ###
 
-<p align="center">It is my profile 😍😍</p>
+<h2 align="center">It is my profile 😍😍</h2>
 
 ###
 
-<h4 align="left">My socials!)</h4>
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
+</div>
+
+###
+
+<h3 align="center">So...<br>I am fifteen ( 15 ) years old python programist<br>I'm only on start my path so you can be "old" <br>subscriber</h3>
+
+###
+
+<h3 align="left">My socials!)</h3>
 
 ###
 
@@ -21,17 +31,11 @@
 
 ###
 
-<p align="center">So...<br>I am fifteen ( 15 ) years old python programist<br>I'm only on start my path so you can be "old" <br>subscriber</p>
+<h3 align="center">Hmm<br>My name is oinqq so..  What is yours?<br>I think it beautiful<br>I love music and anime<br>Do you like too?</h3>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
-</div>
-
-###
-
-<h4 align="left">My tools</h4>
+<h3 align="left">My tools</h3>
 
 ###
 
@@ -44,10 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<h4 align="center">Hmm<br>My name is oinqq so..  What is yours?<br>I think it beautiful<br>I love music and anime<br>Do you like too?</h4>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h4>
+<h3 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h3>
 
 ###
 
