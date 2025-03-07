@@ -47,7 +47,7 @@
 
 ###
 
-<p align="center">Hmm<br>My name is oinqq so , Hello!  What is yours?<br>I think it beautiful<br>I love music and anime<br>Which are you like?</p>
+<h4 align="center">Hmm<br>My name is oinqq so..  What is yours?<br>I think it beautiful<br>I love music and anime<br>Do you like too?</h4>
 
 ###
 
