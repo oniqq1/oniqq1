@@ -1,12 +1,18 @@
+<h4 align="left">My socials!)</h4>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hello friend!!!</h1>
 
 ###
 
 <p align="center">It is my profile 😍😍</p>
-
-###
-
-<h4 align="left">My socials!)</h4>
 
 ###
 
@@ -24,14 +30,6 @@
 <p align="center">So...<br>I am fifteen ( 15 ) years old python programist<br>I'm only on start my path so you can be "old" <br>subscriber</p>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
-</div>
-
-###
-
-<br clear="both">
 
 <h4 align="left">My tools</h4>
 
@@ -53,13 +51,15 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xbumaa65uudltqwj0fvl6zxvf&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="200" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif"  />
 
 ###
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/36/4e/a6/364ea6cd7bfd00a0260aaf6e2602cd4d.gif"  />
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oniqq1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -68,12 +68,20 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/xbumaa65uudltqwj0fvl6zxvf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xbumaa65uudltqwj0fvl6zxvf&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/36/4e/a6/364ea6cd7bfd00a0260aaf6e2602cd4d.gif"  />
+<h4 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h4>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif"  />
+</div>
 
 ###
