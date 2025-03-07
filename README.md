@@ -85,3 +85,7 @@
 </div>
 
 ###
+
+<h3 align="center">I proud , read this profile was intresting and funny , good buy my friend =)</h3>
+
+###
