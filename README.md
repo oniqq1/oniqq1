@@ -59,7 +59,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/oniqq1/oniqq1/output/snake.svg" alt="Snake animation" />
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 
 ###
 
