@@ -1,18 +1,12 @@
-<h4 align="left">My socials!)</h4>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hello friend!!!</h1>
 
 ###
 
 <p align="center">It is my profile 😍😍</p>
+
+###
+
+<h4 align="left">My socials!)</h4>
 
 ###
 
@@ -28,6 +22,12 @@
 ###
 
 <p align="center">So...<br>I am fifteen ( 15 ) years old python programist<br>I'm only on start my path so you can be "old" <br>subscriber</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif"  />
+</div>
 
 ###
 
