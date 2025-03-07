@@ -67,7 +67,7 @@
 
 <br clear="both">
 
-<h3 align="center">By the way<br>I play many computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h3>
+<h3 align="center">By the way<br>I play a lot of computers game <br>Like : cs2 , dota ,gta5 , rust etc.</h3>
 
 ###
 
@@ -91,6 +91,6 @@
 
 <br clear="both">
 
-<h3 align="center">I proud , read this profile was intresting and funny , good buy my friend =)</h3>
+<h3 align="center">I hope , reading this profile was intresting and funny , good bye my friend =)</h3>
 
 ###
