@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-Hi! I'm **codeniq**, a Python developer passionate about learning and creating useful projects.  
+Hi! I'm **codeniq**, a Python developer/freelancer passionate about learning and creating useful projects.  
 Currently learning and working with: **Python, Django, Flask, FastAPI, SQLite, MySQL, PostgreSQL**.  
 
 In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
