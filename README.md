@@ -30,6 +30,7 @@ In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+---
 ## 🎦 Projects
 
 Telegram bots - https://github.com/oniqq1/Requests_shop_bot
