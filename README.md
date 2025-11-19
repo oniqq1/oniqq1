@@ -33,4 +33,4 @@ In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
 ---
 ## 🎦 Projects
 
-Telegram bots - https://github.com/oniqq1/Requests_shop_bot
+Telegram bots - [applications bot](https://github.com/oniqq1/Requests_shop_bot)
