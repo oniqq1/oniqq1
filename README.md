@@ -12,7 +12,7 @@ In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/oinqq"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/944632344105586730"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
   <a href="https://t.me/codeniq"><img src="https://img.shields.io/badge/Telegram-%230068D8.svg?logo=telegram&logoColor=white"/></a>
   <a href="https://tiktok.com/@codeniq"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/></a>
 </p>
