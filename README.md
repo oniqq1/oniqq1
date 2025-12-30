@@ -32,7 +32,7 @@ In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
 ---
 ## 🎦 Projects
 
-Telegram bots - [applications bot](https://github.com/oniqq1/Requests_shop_bot) \n
-Discord bots - [basic bot](https://github.com/oniqq1/discrod_bot/) \n
-FastApi site - [messanger](https://github.com/oniqq1/Discord_messanger)\n 
+Telegram bots - [applications bot](https://github.com/oniqq1/Requests_shop_bot) <br>
+Discord bots - [basic bot](https://github.com/oniqq1/discrod_bot/) <br>
+FastApi site - [messanger](https://github.com/oniqq1/Discord_messanger)<br>
 Flask site - [sho site](https://github.com/oniqq1/Internet_shop)
