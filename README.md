@@ -36,3 +36,4 @@ Telegram bots - [applications bot](https://github.com/oniqq1/Requests_shop_bot) 
 Discord bots - [basic bot](https://github.com/oniqq1/discrod_bot/) <br>
 FastApi site - [messanger](https://github.com/oniqq1/Discord_messanger)<br>
 Flask site - [shop site](https://github.com/oniqq1/Internet_shop)
+Django site - [Anime netflix](https://github.com/oniqq1/anime_netflix)
