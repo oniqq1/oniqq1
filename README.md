@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-Hi! I'm **codeniq**, a Python developer/freelancer passionate about learning and creating useful projects.  
+Hi! I'm **Arsen**, a Python developer/freelancer passionate about learning and creating useful projects.  
 Currently learning and working with: **Python, Django, Flask, FastAPI, SQLite, MySQL, PostgreSQL**.  
 
 In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
@@ -14,7 +14,6 @@ In my free time, I enjoy **volleyball, gaming, and exploring new technologies**.
 <p align="center">
   <a href="https://discord.com/users/944632344105586730"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
   <a href="https://t.me/codeniq"><img src="https://img.shields.io/badge/Telegram-%230068D8.svg?logo=telegram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@codeniq"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/></a>
 </p>
 
 ---
